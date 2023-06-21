@@ -3,5 +3,3 @@
 
 ![Github Followers](https://img.shields.io/github/followers/NewBww?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/bwwnew?style=social)
-
-- 🌱 I’m currently learning Flutter, Dart and Mobile Development
